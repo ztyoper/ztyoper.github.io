@@ -1,0 +1,30 @@
+﻿# ztyOper的博客
+> ztyOper的个人博客，记录学习笔记、技术实践和生活里的想法。
+
+## Key Pages
+- [主页](https://ztyoper.github.io/)
+- [归档](https://ztyoper.github.io/archive/)
+- [关于我](https://ztyoper.github.io/about/)
+- [留言](https://ztyoper.github.io/guestbook/): 欢迎在这里留下你的足迹，分享你的想法和建议
+
+## Recent Posts
+- [知识库导航](https://ztyoper.github.io/posts/yuque/overview/): 44 个知识库、1067 篇学习笔记的分类导航。
+- [用 Markdown 写二篇文章](https://ztyoper.github.io/posts/markdown-writing-copy/): 标题、列表、链接和代码块的简单示例，写作时可以直接参考。
+- [用 Markdown 写一篇文章](https://ztyoper.github.io/posts/markdown-writing/): 标题、列表、链接和代码块的简单示例，写作时可以直接参考。
+- [欢迎来到我的博客](https://ztyoper.github.io/posts/welcome/): 从第一篇 Markdown 开始，记录学习、技术与生活。
+- [AI+Ruoyi · 知识库目录](https://ztyoper.github.io/posts/yuque/ai-ruoyi/overview/): 「AI+Ruoyi」的文档目录。
+- [编译原理 · 知识库目录](https://ztyoper.github.io/posts/yuque/bian-yi-yuan-li/overview/): 「编译原理」的文档目录。
+- [并发设计模式 · 知识库目录](https://ztyoper.github.io/posts/yuque/bing-fa-she-ji-mo-shi/overview/): 「并发设计模式」的文档目录。
+- [冰河文章 · 知识库目录](https://ztyoper.github.io/posts/yuque/bing-he-wen-zhang/overview/): 「冰河文章」的文档目录。
+- [并行计算 · 知识库目录](https://ztyoper.github.io/posts/yuque/bing-xing-ji-suan/overview/): 「并行计算」的文档目录。
+- [操作系统 · 知识库目录](https://ztyoper.github.io/posts/yuque/cao-zuo-xi-tong/overview/): 「操作系统」的文档目录。
+- [重庆大学研究生导师 · 知识库目录](https://ztyoper.github.io/posts/yuque/chong-qing-da-xue-yan-jiu-sheng-dao-shi/overview/): 「重庆大学研究生导师」的文档目录。
+- [分布式IM即时通讯系统 · 知识库目录](https://ztyoper.github.io/posts/yuque/fen-bu-shi-im-ji-shi-tong-xun-xi-tong/overview/): 「分布式IM即时通讯系统」的文档目录。
+- [Flowable · 知识库目录](https://ztyoper.github.io/posts/yuque/flowable/overview/): 「Flowable」的文档目录。
+- [高等数学 · 知识库目录](https://ztyoper.github.io/posts/yuque/gao-deng-shu-xue/overview/): 「高等数学」的文档目录。
+- [Java核心知识总结 · 知识库目录](https://ztyoper.github.io/posts/yuque/java-he-xin-zhi-shi-zong-jie/overview/): 「Java核心知识总结」的文档目录。
+- [JavaSE · 知识库目录](https://ztyoper.github.io/posts/yuque/javase/overview/): 「JavaSE」的文档目录。
+- [JavaWeb · 知识库目录](https://ztyoper.github.io/posts/yuque/javaweb/overview/): 「JavaWeb」的文档目录。
+- [计算机网络 · 知识库目录](https://ztyoper.github.io/posts/yuque/ji-suan-ji-wang-luo/overview/): 「计算机网络」的文档目录。
+- [计算机组成原理 · 知识库目录](https://ztyoper.github.io/posts/yuque/ji-suan-ji-zu-cheng-yuan-li/overview/): 「计算机组成原理」的文档目录。
+- [JUC-多线程 · 知识库目录](https://ztyoper.github.io/posts/yuque/juc-duo-xian-cheng/overview/): 「JUC-多线程」的文档目录。
